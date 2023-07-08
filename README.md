@@ -1,11 +1,12 @@
 # Stable-Diffusion-FineTuning
 # Text to Image Generation with Amazon SageMaker
 
-[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/)
-[![Preview In nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Stable-Diffusion-FineTuning/blob/master/stable-diffusion-v2.ipynb)
+[![Preview In nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/Stable-Diffusion-FineTuning/blob/master/stable-diffusion-v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivek7208/Stable-Diffusion-FineTuning/blob/master/stable-diffusion-v2.ipynb)
 
-This repository contains a Jupyter notebook that demonstrates how to use Amazon SageMaker JumpStart and the Stable Diffusion model to generate images from text prompts.
+
+This repository contains a Jupyter notebook that demonstrates how to use Amazon SageMaker and the Stable Diffusion model to generate images from text prompts.
 
 ## Notebook Overview
 
