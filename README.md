@@ -21,22 +21,23 @@ Here are examples of images produced for the following prompts:
 
 **Prompt: "Country estate with an impressionist touch"**
 
-![Country estate with an impressionist touch](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/6f1bc3fa-4fa7-43c8-8fdc-5e2f397493cf)
+![Country estate with an impressionist touch](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/d63fd56c-880b-43bb-9783-1a316213db61)
 
 
 **Prompt: "Astronaut on a horse"**
 
-![Astronaut on a horse](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/fb30299d-9402-489b-b1a8-f0e49c99c9e2)
+![Astronaut on a horse](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/ac9fec59-3e26-4b21-b49f-aabd98bf85d3)
 
 
 **Prompt: "Chase scene on the streets of Los Santos, sports car weaving through traffic, police in pursuit, neon lights, dynamic action, rain-slicked streets reflecting city lights, GTA V theme, digital painting, concept art, trending on DeviantArt, high resolution, art by WLOP, Maciej Kuciara"**
 
-![Chase scene on the streets of Los Santos](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/e91836e6-e42e-44e3-a65a-c607c72c5d0a)
+![Chase scene on the streets of Los Santos](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/91c3ca13-4d00-46af-85d0-e39d61032ccd)
 
 
 **Prompt: "A photo of a Doppler dog with a hat"**
 
-![A photo of a Doppler dog with a hat](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/a78376f4-3fcb-4775-9398-c2155d90afb5)
+![A photo of a Doppler dog with a hat](https://github.com/vivek7208/Stable-Diffusion-FineTuning/assets/65945306/22c6228a-72b4-4bcd-9a91-cdd128e6b964)
+
 
 ### 2. Fine-tuning the Model
 
