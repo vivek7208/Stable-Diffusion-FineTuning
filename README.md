@@ -1,5 +1,5 @@
 # Stable-Diffusion-FineTuning
-# Text to Image Generation with Amazon SageMaker
+# Text to Image Generation
 
 [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Stable-Diffusion-FineTuning/blob/master/stable-diffusion-v2.ipynb)
 [![Preview In nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/Stable-Diffusion-FineTuning/blob/master/stable-diffusion-v2.ipynb)
